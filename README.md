@@ -24,7 +24,7 @@ The project focuses heavily on:
 ## 🌐 Live Demo
 
 ```md
-Live Project: https://your-live-link.com
+Live Project: https://spacewire-news.netlify.app/
 ```
 
 ---
